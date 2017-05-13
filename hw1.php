@@ -58,7 +58,8 @@
         for($j = 1; $j <= 6; $j++){
             echo $i * $j, ' ';
         }
-        echo '<br>';
+        echo '
+        <br>';
     }
 
     // task #7

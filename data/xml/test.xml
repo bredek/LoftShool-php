@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<countries>
+    <country id="1">Россия</country>
+    <country id="2">США</country>
+    <country id="3">Испания</country>
+    <country id="4">Австралия</country>
+</countries>
